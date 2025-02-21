@@ -47,20 +47,6 @@ Follow these steps to run the chat application on your local machine:
 
 ---
 
-## 🌍 Deployment
-
-You can deploy this application on the following platforms:
-- **Render:** [render.com](https://render.com/)
-- **Vercel:** [vercel.com](https://vercel.com/)
-- **Railway:** [railway.app](https://railway.app/)
-
----
-
-## 📸 Preview
-
-![Chat App Screenshot](https://your-image-url.com) *(Replace with your actual screenshot)*
-
----
 
 ## 📩 Contact
 For any queries or suggestions, feel free to reach out! 🚀
