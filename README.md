@@ -1,3 +1,4 @@
+# Live Hosting : https://chat-app-0i4i.onrender.com/
 # 💬 Real-Time Chat Application
 
 A **real-time chat application** built using **Node.js, Express, Socket.io, and TailwindCSS**. It allows users to chat in real time with a **modern UI** and smooth animations. The application is responsive and supports room-based messaging.
